@@ -15,3 +15,4 @@ Komponen utama aplikasi ini adalah:
 1. Membat **Kegiatan**
 2. Menambahkan **Sesi presensi** pada **Kegiatan yang dibuat**
 3. Melakukan scan terhadap peserta melalu QRCode pada **Sesi presensi** yang dipilih
+4. Data pada presensi store bisa dieksport ke VCS untuk keperluan analisa lebih lanjut
